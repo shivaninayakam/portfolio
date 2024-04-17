@@ -2,223 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Shivani Nayakam</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on Shivani Nayakam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.NET</title>
-      <link>http://localhost:1313/tags/.net/</link>
+      <link>http://localhost:1313/portfolio/tags/.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/.net/</guid>
+      <guid>http://localhost:1313/portfolio/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile</title>
-      <link>http://localhost:1313/tags/agile/</link>
+      <link>http://localhost:1313/portfolio/tags/agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/agile/</guid>
+      <guid>http://localhost:1313/portfolio/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angular</title>
-      <link>http://localhost:1313/tags/angular/</link>
+      <link>http://localhost:1313/portfolio/tags/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/angular/</guid>
+      <guid>http://localhost:1313/portfolio/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASP.NET</title>
-      <link>http://localhost:1313/tags/asp.net/</link>
+      <link>http://localhost:1313/portfolio/tags/asp.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/asp.net/</guid>
+      <guid>http://localhost:1313/portfolio/tags/asp.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation Testing</title>
-      <link>http://localhost:1313/tags/automation-testing/</link>
+      <link>http://localhost:1313/portfolio/tags/automation-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/automation-testing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/automation-testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>http://localhost:1313/tags/aws/</link>
+      <link>http://localhost:1313/portfolio/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/aws/</guid>
+      <guid>http://localhost:1313/portfolio/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Devops</title>
-      <link>http://localhost:1313/tags/azure-devops/</link>
+      <link>http://localhost:1313/portfolio/tags/azure-devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/azure-devops/</guid>
+      <guid>http://localhost:1313/portfolio/tags/azure-devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOOTSTRAP</title>
-      <link>http://localhost:1313/tags/bootstrap/</link>
+      <link>http://localhost:1313/portfolio/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>http://localhost:1313/tags/c%23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/c%23/</guid>
+      <guid>http://localhost:1313/portfolio/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>http://localhost:1313/tags/certification/</link>
+      <link>http://localhost:1313/portfolio/tags/certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/certification/</guid>
+      <guid>http://localhost:1313/portfolio/tags/certification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
+      <link>http://localhost:1313/portfolio/tags/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ci/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>http://localhost:1313/portfolio/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>http://localhost:1313/portfolio/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
+      <link>http://localhost:1313/portfolio/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/git/</guid>
+      <guid>http://localhost:1313/portfolio/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>http://localhost:1313/portfolio/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>http://localhost:1313/portfolio/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>http://localhost:1313/tags/image-processing/</link>
+      <link>http://localhost:1313/portfolio/tags/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/image-processing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/image-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVC</title>
-      <link>http://localhost:1313/tags/mvc/</link>
+      <link>http://localhost:1313/portfolio/tags/mvc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mvc/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/tags/php/</link>
+      <link>http://localhost:1313/portfolio/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/php/</guid>
+      <guid>http://localhost:1313/portfolio/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://localhost:1313/portfolio/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:1313/portfolio/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAA</title>
-      <link>http://localhost:1313/tags/saa/</link>
+      <link>http://localhost:1313/portfolio/tags/saa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/saa/</guid>
+      <guid>http://localhost:1313/portfolio/tags/saa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selenium</title>
-      <link>http://localhost:1313/tags/selenium/</link>
+      <link>http://localhost:1313/portfolio/tags/selenium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/selenium/</guid>
+      <guid>http://localhost:1313/portfolio/tags/selenium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solutions Architect</title>
-      <link>http://localhost:1313/tags/solutions-architect/</link>
+      <link>http://localhost:1313/portfolio/tags/solutions-architect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/solutions-architect/</guid>
+      <guid>http://localhost:1313/portfolio/tags/solutions-architect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>http://localhost:1313/tags/sql/</link>
+      <link>http://localhost:1313/portfolio/tags/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sql/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VB.NET</title>
-      <link>http://localhost:1313/tags/vb.net/</link>
+      <link>http://localhost:1313/portfolio/tags/vb.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/vb.net/</guid>
+      <guid>http://localhost:1313/portfolio/tags/vb.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XAMP</title>
-      <link>http://localhost:1313/tags/xamp/</link>
+      <link>http://localhost:1313/portfolio/tags/xamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/xamp/</guid>
+      <guid>http://localhost:1313/portfolio/tags/xamp/</guid>
       <description></description>
     </item>
     

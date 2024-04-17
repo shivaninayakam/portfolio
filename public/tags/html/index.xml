@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HTML on Shivani Nayakam</title>
-    <link>http://localhost:1313/tags/html/</link>
+    <link>http://localhost:1313/portfolio/tags/html/</link>
     <description>Recent content in HTML on Shivani Nayakam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Culinary portal</title>
-      <link>http://localhost:1313/blog/aws-dva-certification/</link>
+      <link>http://localhost:1313/portfolio/blog/aws-dva-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/aws-dva-certification/</guid>
+      <guid>http://localhost:1313/portfolio/blog/aws-dva-certification/</guid>
       <description>Description Designed and implemented a responsive culinary portal using HTML, CSS, and Bootstrap, ensuring a seamless user experience across various devices and platforms. Developed robust backend functionalities using PHP to manage dynamic data interactions, user authentication, and server-side logic on a XAMPP development environment. Engineered and maintained a structured SQL database to handle complex queries for user management, menu selections, bookings, seating arrangements, and delivery services, ensuring efficient and secure data operations.</description>
     </item>
     
     <item>
       <title>Culinary portal</title>
-      <link>http://localhost:1313/projects/automated-image-captioning/</link>
+      <link>http://localhost:1313/portfolio/projects/automated-image-captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/automated-image-captioning/</guid>
+      <guid>http://localhost:1313/portfolio/projects/automated-image-captioning/</guid>
       <description>Description Designed and implemented a responsive culinary portal using HTML, CSS, and Bootstrap, ensuring a seamless user experience across various devices and platforms. Developed robust backend functionalities using PHP to manage dynamic data interactions, user authentication, and server-side logic on a XAMPP development environment. Engineered and maintained a structured SQL database to handle complex queries for user management, menu selections, bookings, seating arrangements, and delivery services, ensuring efficient and secure data operations.</description>
     </item>
     

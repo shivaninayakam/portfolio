@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shivani Nayakam</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Shivani Nayakam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I passed the AWS SAA Certification Exam</title>
-      <link>http://localhost:1313/blog/aws-saa-certification/</link>
+      <link>http://localhost:1313/portfolio/blog/aws-saa-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/aws-saa-certification/</guid>
+      <guid>http://localhost:1313/portfolio/blog/aws-saa-certification/</guid>
       <description>How I passed the AWS Solutions Architect-Associate Certification Exam</description>
     </item>
     
     <item>
       <title>Culinary portal</title>
-      <link>http://localhost:1313/blog/aws-dva-certification/</link>
+      <link>http://localhost:1313/portfolio/blog/aws-dva-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/aws-dva-certification/</guid>
+      <guid>http://localhost:1313/portfolio/blog/aws-dva-certification/</guid>
       <description>Description Designed and implemented a responsive culinary portal using HTML, CSS, and Bootstrap, ensuring a seamless user experience across various devices and platforms. Developed robust backend functionalities using PHP to manage dynamic data interactions, user authentication, and server-side logic on a XAMPP development environment. Engineered and maintained a structured SQL database to handle complex queries for user management, menu selections, bookings, seating arrangements, and delivery services, ensuring efficient and secure data operations.</description>
     </item>
     
     <item>
       <title>Culinary portal</title>
-      <link>http://localhost:1313/projects/automated-image-captioning/</link>
+      <link>http://localhost:1313/portfolio/projects/automated-image-captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/automated-image-captioning/</guid>
+      <guid>http://localhost:1313/portfolio/projects/automated-image-captioning/</guid>
       <description>Description Designed and implemented a responsive culinary portal using HTML, CSS, and Bootstrap, ensuring a seamless user experience across various devices and platforms. Developed robust backend functionalities using PHP to manage dynamic data interactions, user authentication, and server-side logic on a XAMPP development environment. Engineered and maintained a structured SQL database to handle complex queries for user management, menu selections, bookings, seating arrangements, and delivery services, ensuring efficient and secure data operations.</description>
     </item>
     
     <item>
       <title>Driver Drowsiness detection system using facial landmarking</title>
-      <link>http://localhost:1313/projects/face-landmarks-detection/</link>
+      <link>http://localhost:1313/portfolio/projects/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/face-landmarks-detection/</guid>
+      <guid>http://localhost:1313/portfolio/projects/face-landmarks-detection/</guid>
       <description>Description Implemented advanced image processing algorithms for real-time face detection, facial component extraction, and tracking using OpenCV, improving the system&amp;rsquo;s accuracy in diverse lighting conditions.
 Developed algorithms to calculate the Eye Aspect Ratio (EAR) and Mouth Open Ratio (MOR), critical metrics for assessing driver alertness, and established threshold-based alert systems to prevent potential accidents.
 Conducted extensive testing to calibrate and optimize drowsiness detection thresholds, ensuring reliable performance of the system in detecting early signs of driver fatigue.</description>
@@ -47,55 +47,55 @@ Conducted extensive testing to calibrate and optimize drowsiness detection thres
     
     <item>
       <title>Master&#39;s in Computer Science</title>
-      <link>http://localhost:1313/education/uf/</link>
+      <link>http://localhost:1313/portfolio/education/uf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/education/uf/</guid>
+      <guid>http://localhost:1313/portfolio/education/uf/</guid>
       <description>University of Florida, Gainesville </description>
     </item>
     
     <item>
       <title>Software Engineer II at Deloitte</title>
-      <link>http://localhost:1313/experience/deloitteexp/</link>
+      <link>http://localhost:1313/portfolio/experience/deloitteexp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/deloitteexp/</guid>
+      <guid>http://localhost:1313/portfolio/experience/deloitteexp/</guid>
       <description>Hyderabad | India</description>
     </item>
     
     <item>
       <title>Software Engineer I at Deloitte</title>
-      <link>http://localhost:1313/experience/buyerassist/</link>
+      <link>http://localhost:1313/portfolio/experience/buyerassist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/buyerassist/</guid>
+      <guid>http://localhost:1313/portfolio/experience/buyerassist/</guid>
       <description>Hyderabad | India</description>
     </item>
     
     <item>
       <title>Intern at Verzeo</title>
-      <link>http://localhost:1313/experience/tumunich/</link>
+      <link>http://localhost:1313/portfolio/experience/tumunich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/tumunich/</guid>
+      <guid>http://localhost:1313/portfolio/experience/tumunich/</guid>
       <description>Hyderabad | India</description>
     </item>
     
     <item>
       <title>Bachelor&#39;s in Computer Science</title>
-      <link>http://localhost:1313/education/cbit/</link>
+      <link>http://localhost:1313/portfolio/education/cbit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/education/cbit/</guid>
+      <guid>http://localhost:1313/portfolio/education/cbit/</guid>
       <description>Chaitanya Bharathi Institute of Technology </description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/skills/technicalskills/</link>
+      <link>http://localhost:1313/portfolio/skills/technicalskills/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/skills/technicalskills/</guid>
+      <guid>http://localhost:1313/portfolio/skills/technicalskills/</guid>
       <description>My Skills Below is a list of my professional skill sets and the competencies in each area:
 Web Development Proficiency: Expert Technologies: HTML CSS JavaScript Angular React Flask .Net Spring Boot Programming Languages Proficiency: Experienced Languages: Python Java C# C C++ DevOps Proficiency: Intermediate Tools: Docker Kubernetes CI/CD Pipelines </description>
     </item>

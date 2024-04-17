@@ -1,4 +1,4 @@
-baseURL: "https://shivaninayakam.github.io/portfolio/"
+baseURL: "http://localhost:1313/portfolio/"
 languageCode: en-us
 title: Shivani Nayakam
 theme: PaperMod

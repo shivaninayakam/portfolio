@@ -2,93 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/aws-saa-certification/</loc>
+    <loc>http://localhost:1313/portfolio/blog/aws-saa-certification/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/aws-dva-certification/</loc>
+    <loc>http://localhost:1313/portfolio/blog/aws-dva-certification/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/automated-image-captioning/</loc>
+    <loc>http://localhost:1313/portfolio/projects/automated-image-captioning/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/face-landmarks-detection/</loc>
+    <loc>http://localhost:1313/portfolio/projects/face-landmarks-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/education/uf/</loc>
+    <loc>http://localhost:1313/portfolio/education/uf/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/deloitteexp/</loc>
+    <loc>http://localhost:1313/portfolio/experience/deloitteexp/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/buyerassist/</loc>
+    <loc>http://localhost:1313/portfolio/experience/buyerassist/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/tumunich/</loc>
+    <loc>http://localhost:1313/portfolio/experience/tumunich/</loc>
   </url><url>
-    <loc>http://localhost:1313/education/cbit/</loc>
+    <loc>http://localhost:1313/portfolio/education/cbit/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/skills/</loc>
+    <loc>http://localhost:1313/portfolio/skills/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/skills/technicalskills/</loc>
+    <loc>http://localhost:1313/portfolio/skills/technicalskills/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/.net/</loc>
+    <loc>http://localhost:1313/portfolio/tags/.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/agile/</loc>
+    <loc>http://localhost:1313/portfolio/tags/agile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/angular/</loc>
+    <loc>http://localhost:1313/portfolio/tags/angular/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/asp.net/</loc>
+    <loc>http://localhost:1313/portfolio/tags/asp.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/automation-testing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/automation-testing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>http://localhost:1313/portfolio/tags/aws/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/azure-devops/</loc>
+    <loc>http://localhost:1313/portfolio/tags/azure-devops/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/portfolio/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/portfolio/tags/bootstrap/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/c%23/</loc>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/portfolio/tags/certification/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/certification/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ci/cd/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/portfolio/tags/css/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>http://localhost:1313/portfolio/education/</loc>
   </url><url>
-    <loc>http://localhost:1313/education/</loc>
+    <loc>http://localhost:1313/portfolio/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>http://localhost:1313/portfolio/tags/git/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/git/</loc>
+    <loc>http://localhost:1313/portfolio/tags/html/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>http://localhost:1313/portfolio/tags/image-processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/image-processing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mvc/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mvc/</loc>
+    <loc>http://localhost:1313/portfolio/tags/php/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/php/</loc>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/portfolio/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/portfolio/tags/saa/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/saa/</loc>
+    <loc>http://localhost:1313/portfolio/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:1313/portfolio/tags/selenium/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/selenium/</loc>
+    <loc>http://localhost:1313/portfolio/tags/solutions-architect/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/solutions-architect/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sql/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/portfolio/tags/vb.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/vb.net/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/xamp/</loc>
+    <loc>http://localhost:1313/portfolio/tags/xamp/</loc>
   </url>
 </urlset>
