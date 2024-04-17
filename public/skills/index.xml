@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skills on Shivani Nayakam</title>
+    <link>http://localhost:1313/skills/</link>
+    <description>Recent content in Skills on Shivani Nayakam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/technicalskills/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/skills/technicalskills/</guid>
+      <description>My Skills Below is a list of my professional skill sets and the competencies in each area:
+Web Development Proficiency: Expert Technologies: HTML CSS JavaScript Angular React Flask .Net Spring Boot Programming Languages Proficiency: Experienced Languages: Python Java C# C C++ DevOps Proficiency: Intermediate Tools: Docker Kubernetes CI/CD Pipelines </description>
+    </item>
+    
+  </channel>
+</rss>

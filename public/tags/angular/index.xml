@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Angular on Shivani Nayakam</title>
+    <link>http://localhost:1313/tags/angular/</link>
+    <description>Recent content in Angular on Shivani Nayakam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineer II at Deloitte</title>
+      <link>http://localhost:1313/experience/deloitteexp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/deloitteexp/</guid>
+      <description>Hyderabad | India</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer I at Deloitte</title>
+      <link>http://localhost:1313/experience/buyerassist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/buyerassist/</guid>
+      <description>Hyderabad | India</description>
+    </item>
+    
+  </channel>
+</rss>

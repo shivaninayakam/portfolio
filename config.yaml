@@ -1,0 +1,100 @@
+baseURL: "https://nayakamshivani.github.io"
+languageCode: en-us
+title: Shivani Nayakam
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+   
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 40
+    - identifier: education
+      name: Education
+      url: /education
+      weight: 50
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: skills
+      name: Skills
+      url: /skills/technicalskills/
+      weight: 20
+   
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: false
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Shivani Nayakam"
+    subtitle: As an accomplished Software Engineer with a master's in Computer Science and proven experience in full-stack development and SDLC management, I aim to leverage my technical expertise in leading-edge technologies and methodologies to drive innovation and efficiency in software solutions. My goal is to contribute to challenging projects that advance the frontiers of digital transformation, while continuing to grow as a leader in tech-driven environments.
+    imageUrl: "home/shivani_nayakam.jpg"
+    imageWidth: 300
+    imageHeight: 250
+    buttons:
+      - name: Resume
+        url: "https://drive.google.com/file/d/1Koyo-RnKFm5ioP-jnb1oOZLrSm_lj0o4/view"
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:nayakamshivani@gmail.com"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/shivani-nayakam"
+    - name: "github"
+      url: "https://github.com/nayakamshivani"
+ 
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
