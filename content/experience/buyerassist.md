@@ -3,7 +3,7 @@ title: "Software Engineer I at Deloitte"
 description: "Hyderabad | India"
 dateString: August 2020 - March 2022
 draft: false
-tags: [".NET", "C#", "Angular", "SQL", "Azure Devops", "ASP.NET", "VB.NET", "Agile", "Git",  "Selenium","Automation Testing"]
+tags: [".NET", "Angular", "SQL", "Azure Devops", "ASP.NET", "VB.NET", "Agile", "Git",  "Selenium","Automation Testing"]
 showToc: false
 weight: 302
 --- 
