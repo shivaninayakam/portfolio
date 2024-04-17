@@ -3,7 +3,7 @@ title: "Software Engineer II at Deloitte"
 description: "Hyderabad | India"
 dateString: April 2022 - July 2023
 draft: false
-tags: [".NET", "C#", "Angular", "SQL", "Azure Devops", "ASP.NET", "VB.NET", "Agile", "Git",  "MVC","CI/CD"]
+tags: [".NET",  "Angular", "SQL", "Azure Devops", "ASP.NET", "VB.NET", "Agile", "Git",  "MVC","CI/CD"]
 showToc: false
 weight: 301
 --- 
