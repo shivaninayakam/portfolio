@@ -13,19 +13,19 @@ menu:
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 40
+      weight: 30
     - identifier: education
       name: Education
       url: /education
-      weight: 50
+      weight: 40
     - identifier: experience
       name: Experience
       url: /experience
-      weight: 30
+      weight: 20
     - identifier: skills
       name: Skills
       url: /skills/technicalskills/
-      weight: 20
+      weight: 50
    
     # - identifier: tags
     #   name: Tags
@@ -51,7 +51,7 @@ params:
   profileMode:
     enabled: true
     title: "Shivani Nayakam"
-    subtitle: As an accomplished Software Engineer with a master's in Computer Science and proven experience in full-stack development and SDLC management, I aim to leverage my technical expertise in leading-edge technologies and methodologies to drive innovation and efficiency in software solutions. My goal is to contribute to challenging projects that advance the frontiers of digital transformation, while continuing to grow as a leader in tech-driven environments.
+    subtitle: With three years of work experience at Deloitte USI, I'm currently enhancing my expertise through a Master's in Computer Science at the University of Florida. I am good at multiple programming languages, has received accolades for my performance improvements and user experience enhancements, and is driven to innovate in software development.My career goal is to leverage my extensive knowledge in computer science and experience in software engineering to innovate and enhance technology applications, contribute to cutting-edge development projects, and drive significant advancements in software solutions and user experience.
     imageUrl: "home/shivani_nayakam.jpg"
     imageWidth: 300
     imageHeight: 250
